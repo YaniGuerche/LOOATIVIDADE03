@@ -36,3 +36,49 @@ public class Professor extends BasePessoa {
 
 
 }
+
+
+
+
+
+
+RESPOSTAS
+2 - resposta: B) A propriedade setId(), da classe “Classe”, se não existir, não irá gerar erro de
+compilação.
+
+3 - resposta: A) Se necessário, o programador pode criar uma instância dessa classe, facilitando
+assim sua operação, bastando adicionar a outra classe a linha de código:
+Calculadora calc = new Calculadora()
+
+4 - resposta: C) Um objeto é uma entidade que possui um estado e um conjunto definido de operações
+definidas para funcionar nesse estado.
+
+5 - B) as classes podem ser potencialmente reutilizáveis.
+2 - resposta: B) A propriedade setId(), da classe “Classe”, se não existir, não irá gerar erro de
+compilação.
+
+3 - resposta: A) Se necessário, o programador pode criar uma instância dessa classe, facilitando
+assim sua operação, bastando adicionar a outra classe a linha de código:
+Calculadora calc = new Calculadora()
+
+4 - resposta: C) Um objeto é uma entidade que possui um estado e um conjunto definido de operações
+definidas para funcionar nesse estado.
+
+5 - B) as classes podem ser potencialmente reutilizáveis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
